@@ -32,7 +32,7 @@ Placed components and routed the PCB. Chose the mounting holes (M4) and added an
 
 # Day 9 - Day 10 -- 2nd July - 3rd July
 Time Spent: 3hrs
-Rerouted parts of the PCB and added mounting holes. Did research on printing and painting PLA (might get offwhite to give a retro vibe). 
+Rerouted parts of the PCB and added mounting holes. Did research on printing and painting PLA (might get offwhite to give a retro vibe). <br>
 Ref: ![image](https://github.com/user-attachments/assets/63e5d894-7a66-479e-b60f-5607c99c3f9e) <br>
 Also added some silkscreen details to be easier to read. Will add silkscreen art tommorow.
 
