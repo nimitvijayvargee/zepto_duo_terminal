@@ -33,6 +33,13 @@ Placed components and routed the PCB. Chose the mounting holes (M4) and added an
 # Day 9 - Day 10 -- 2nd July - 3rd July
 Time Spent: 3hrs
 Rerouted parts of the PCB and added mounting holes. Did research on printing and painting PLA (might get offwhite to give a retro vibe). <br>
-Ref: ![image](https://github.com/user-attachments/assets/63e5d894-7a66-479e-b60f-5607c99c3f9e) <br>
+Ref:<br> ![image](https://github.com/user-attachments/assets/63e5d894-7a66-479e-b60f-5607c99c3f9e) <br>
 Also added some silkscreen details to be easier to read. Will add silkscreen art tommorow.
+
+# Day 11 - Day 12 -- 10th July - 11th July
+Time Spent: 3hrs <br>
+Returned to this project after some time. On comparing prices across websites, it was much cheaper to reroute the main board to follow a different layout. The board is now 400x120 (mm) and has more or a Pi500 vibe to it. Most of the layout and routing could be reused but I did decide to redo the resistors for the VGA and remove the expansion card slot
+![image](https://github.com/user-attachments/assets/56397551-1b81-493f-ac31-81174a9acc32)
+![image](https://github.com/user-attachments/assets/f5d9a3f3-b651-4188-8a3e-0e46fbdf84e0)
+
 
