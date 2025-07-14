@@ -42,4 +42,9 @@ Returned to this project after some time. On comparing prices across websites, i
 ![image](https://github.com/user-attachments/assets/56397551-1b81-493f-ac31-81174a9acc32)
 ![image](https://github.com/user-attachments/assets/f5d9a3f3-b651-4188-8a3e-0e46fbdf84e0)
 
+# Day 13 - 14th July
+Time Spent: 2hrs
+Fixed keyboard layout to use a 7u spacebar (ortholinear) and worked on the case. The case is going to be two part, with an acrylic removabale plate on top for view into the body. The main case is going to be 3d printed in whtite. I am only remaining with the keycaps before i can start the software!
+![image](https://github.com/user-attachments/assets/f8805421-536e-4e49-b77d-79eb0da3ae2f)
+
 
