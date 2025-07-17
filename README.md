@@ -13,3 +13,16 @@ The Keyboard matrix is composed of 8 Rows and 8 Columns, following an ortholinea
 ![Case](images/image-1.png)
 ![Schematic](images/image-2.png)
 ![PCB](images/image-3.png)
+
+# BOM
+|Item                  |Cost|
+|----------------------|----|
+|DB-15 VGA Connector   |1   |
+|1N4148 Diodes         |5   |
+|LEDs                  |0.5 |
+|Raspberry Pi Pico (x2)|10  |
+|Headers               |0.5 |
+|PCB (400x120mm)       |75  |
+|Case + Keycaps        |    |
+|Switches              |20  |
+|TOTAL                 |112 |
