@@ -25,4 +25,5 @@ The Keyboard matrix is composed of 8 Rows and 8 Columns, following an ortholinea
 |PCB (400x120mm)       |75  |
 |Case + Keycaps        |    |
 |Switches              |20  |
-|TOTAL                 |112 |
+|Solder                |3   |
+|TOTAL                 |115 |
