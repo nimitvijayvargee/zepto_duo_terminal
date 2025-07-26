@@ -17,13 +17,12 @@ The Keyboard matrix is composed of 8 Rows and 8 Columns, following an ortholinea
 # BOM
 |Item                  |Cost|
 |----------------------|----|
-|DB-15 VGA Connector   |1   |
-|1N4148 Diodes         |5   |
-|LEDs                  |0.5 |
-|Raspberry Pi Pico (x2)|10  |
-|Headers               |0.5 |
-|PCB (400x120mm)       |75  |
+|DB-15 VGA Connector   |[1](https://roboticsdna.in/product/db15-female-pcb-mount-right-angle-connector-2-pcs/)   |
+|1N4148 Diodes         |[5](https://roboticsdna.in/product/diode-1n4148/)   |
+|LEDs                  |[0.5](https://roboticsdna.in/product/super-bright-white-led-3mm-1000-pcs/) |
+|Raspberry Pi Pico (x2)|[10](https://roboticsdna.in/product/raspberry-pi-pico/)  |
+|Headers               |[0.5](https://roboticsdna.in/product/40x1-10mm-2-5mm-pitch-burg-strip-male-straight-brass-high-quality-pack-of-5/) |
+|PCB (400x120mm)       |[75](https://www.pcbpower.com/page/pcb-fabrication)  |
 |Case + Keycaps        |    |
-|Switches              |20  |
-|Solder                |3   |
-|TOTAL                 |115 |
+|Switches              |[20](https://stackskb.com/store/akko-v3-cream-blue-pro-switch-pack-of-45/)  |
+|TOTAL                 |112 |
