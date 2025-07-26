@@ -25,4 +25,5 @@ The Keyboard matrix is composed of 8 Rows and 8 Columns, following an ortholinea
 |PCB (400x120mm)       |[75](https://www.pcbpower.com/page/pcb-fabrication)  |
 |Case + Keycaps        |    |
 |Switches              |[20](https://stackskb.com/store/akko-v3-cream-blue-pro-switch-pack-of-45/)  |
-|TOTAL                 |112 |
+|Solder                |[5](https://roboticsdna.in/product/dl-premium-solder-wire-63-37-22-swg-50gm/)  |
+|TOTAL                 |117 |
