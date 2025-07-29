@@ -4,7 +4,7 @@ author: "nimit vijayvargee"
 description: "An all-in-one Terminal PC with two Pi Picos that outputs VGA, all with a a built-in keyboard!"
 created_at: "2025-06-24"
 ---
-
+# Total Time Spent : 26 Hours
 
 # Day 1 - 25th June
 Created a sketch and layout for the project, mostly brainstorming
