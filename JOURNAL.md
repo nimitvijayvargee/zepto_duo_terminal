@@ -52,3 +52,5 @@ I spent this day just designing the custom keycaps. It was difficult but  when I
 # Day 15 - 27th July
 Time Spent: 1hr <br>
 I worked on the code. I am going to use the `adafruit_color_terminal` library for circuitpython to create the terminal, but for the video output I need to decide between `scanvideo` (C SDK) or writing it in PIO-ASM on Circuitpython. I did some testing of the code on a spare ST7735R screen I had lying around. Afterwards, I can do it properly on a monitor.
+I also made a render for the updated case!
+<img width="1443" height="820" alt="image" src="https://github.com/user-attachments/assets/2c2cc216-a745-495a-9cde-2df3a3c901c4" />
