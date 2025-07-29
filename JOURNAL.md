@@ -47,7 +47,11 @@ I started working on the CAD. I first sketched out the PCB with the mounting hol
 ![image](https://github.com/user-attachments/assets/f8805421-536e-4e49-b77d-79eb0da3ae2f)
 # Day 14 - 15 -- 15th - 16th July
 Time Spent: 2hrs <br>
-I spent this day just designing the custom keycaps. It was difficult but  when I finished my first 1u keycap, I got into the pace to finish the rest of the keycaps too.
+I spent this day just designing the custom keycaps. It was difficult but  when I finished my first 1u keycap, I got into the pace to finish the rest of the keycaps too. The 7u spacebar looks a bit weird but I kinda like the idea of a curved spacebar alongside normal keys. The rounded corners are just somethinng I want to do, although they might attract dust (future me problem lol). \
+<img width="1245" height="333" alt="image" src="https://github.com/user-attachments/assets/27f9a395-235b-4f0f-95d8-48bd9cd7a473" />
+<img width="1020" height="710" alt="image" src="https://github.com/user-attachments/assets/1fcb45d7-e97b-42a8-a8b4-bf687c4dc0da" />
+<img width="1010" height="766" alt="image" src="https://github.com/user-attachments/assets/0adba61f-3a6b-4be6-b964-b874065fc42c" />
+<img width="1006" height="717" alt="image" src="https://github.com/user-attachments/assets/012c2189-6ccf-4570-8ba9-fa15d56587f5" />
 
 # Day 15 - 27th July
 Time Spent: 1hr <br>
