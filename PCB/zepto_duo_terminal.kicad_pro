@@ -60,12 +60,8 @@
       ],
       "drc_exclusions": [
         [
-          "courtyards_overlap|487629607|198198326|46187fd6-7d33-4896-8d96-edcc7f63effd|d01c4f60-47d3-477f-89d4-952ab72fb6ff",
-          ""
-        ],
-        [
-          "isolated_copper|460760411|265768840|17080fc4-97ce-40ee-b998-1a6f7cd487ed|00000000-0000-0000-0000-000000000000",
-          ""
+          "courtyards_overlap|492643575|186305580|46187fd6-7d33-4896-8d96-edcc7f63effd|d01c4f60-47d3-477f-89d4-952ab72fb6ff",
+          "Pico placed on headers"
         ],
         [
           "lib_footprint_mismatch|438110000|199877500|e67ce32e-3d6d-4fca-9ddb-bcda7f3135c0|00000000-0000-0000-0000-000000000000",
